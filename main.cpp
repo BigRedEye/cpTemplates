@@ -91,6 +91,5 @@ const ld      EPS     = 1e-9;
 
 int32_t main(int argc, char *argv[])
 {
-    int kek = 1234;
-    debug(1,"qwe",kek);
+    FASTIO
 }
